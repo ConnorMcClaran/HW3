@@ -11,10 +11,10 @@ import java.io.*;
 
 import java.util.ArrayList;
 
-public class FrequencyCounter {
+public class Frequency_Counter {
 
 
-    private FrequencyCounter() { }
+    private Frequency_Counter() { }
 
     /**
      * Reads in a command-line integer and sequence of words from
@@ -85,4 +85,4 @@ public class FrequencyCounter {
 
 
     }
-}}
+}
