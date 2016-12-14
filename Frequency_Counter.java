@@ -4,7 +4,9 @@
  * Created by mcclarci on 10/18/2016.
  * Connor McClaran code for 3.1. # 8,9
  */
-
+/**
+ * This code doesnt work, I can't make StdIn compile
+ */
 
 import java.io.*;
 
@@ -16,9 +18,7 @@ public class Frequency_Counter {
 
     private Frequency_Counter() { }
 
-    /**
-     * This code doesnt work, I can't make StdIn compile
-     */
+    
     public static void main(String[] args) {
         int distinct = 0, words = 0;
         int minlen = Integer.parseInt(args[0]);
